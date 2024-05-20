@@ -13,3 +13,4 @@
 * deviantart -> search terms
 * tumblr -> search terms
 * [Swasssti](https://www.instagram.com/swasssti/)
+* [krishna-art facebook](https://www.facebook.com/profile.php?id=100064479892791&sk=photos) - nice old paintings
