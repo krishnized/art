@@ -10,3 +10,5 @@
 * [Fineartamerica collections](https://fineartamerica.com/art/krishna)
 * [Tallengestore](https://www.tallengestore.com/collections/krishna)
 * pinterest -> search terms
+* deviantart -> search terms
+* [Swasssti](https://www.instagram.com/swasssti/)
