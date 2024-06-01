@@ -2,7 +2,6 @@
 
 * [vrindavanart](https://www.vrindavanart.com/)
 * [BBT media](https://images.bbtmedia.com/)
-* [Jadurani DD](https://bhaktiart.net/art-shop/)
 * [Krishna arts](https://krishna.com/paintings)
 * [Bhaktiacademy art course](https://www.bhaktiacademy.net/store)
 * [Krishna.com.arts instagram](https://www.instagram.com/krishna.com.arts?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
@@ -12,5 +11,10 @@
 * pinterest -> search terms
 * deviantart -> search terms
 * tumblr -> search terms
-* [Swasssti](https://www.instagram.com/swasssti/)
 * [krishna-art facebook](https://www.facebook.com/profile.php?id=100064479892791&sk=photos) - nice old paintings
+
+## Artists
+
+* [Jamuna Priti](https://jamunapriti.com/)
+* [Jadurani DD](https://bhaktiart.net/art-shop/)
+* [Swasssti](https://www.instagram.com/swasssti/)
